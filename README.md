@@ -12,7 +12,7 @@ The project is structured as follows:
 
 - **`src/`**: This directory contains all the Java source code files for Servlets and related components.
 - **`web/`**: This directory contains the JSP files and other web-related resources for the project.
-
+- 
 ## Getting Started
 
 To get started with the project, you'll need the following tools and dependencies:
